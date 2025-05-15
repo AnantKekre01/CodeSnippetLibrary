@@ -284,3 +284,4 @@ public class HomePage extends JFrame {
         SwingUtilities.invokeLater(HomePage::new);
     }
 }
+
