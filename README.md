@@ -80,18 +80,24 @@ I found myself reusing bits of code across multiple projects and wanted a lightw
 
 ---
 
-##  Screenshots (Coming Soon)
-Here is a screenshot of the Home Page of the Code Snippet Organizer App:
+## 📸 Screenshots
 
-![Homepage Screenshot](src/Screenshots/CSL HomePage.png)
+### 🏠 Home Page  
+Here is a screenshot of the Home Page of the Code Snippet Organizer App:  
+![HomePage Screenshot](src/Screenshots/CSL%20HomePage.png)
 
-Here is a screenshot of the Editor Page of the Code Snippet Organizer App:
+---
 
-![Homepage Screenshot](src/Screenshots/CSL EditorPage.png)
+### ✏️ Editor Page  
+Here is a screenshot of the Editor Page of the Code Snippet Organizer App:  
+![EditorPage Screenshot](src/Screenshots/CSL%20EditorPage.png)
 
-Here is a screenshot of the Library Page of the Code Snippet Organizer App:
+---
 
-![Homepage Screenshot](src/Screenshots/CSL LibraryPage.png)
+### 📚 Library Page  
+Here is a screenshot of the Library Page of the Code Snippet Organizer App:  
+![LibraryPage Screenshot](src/Screenshots/CSL%20LibraryPage.png)
+
 ---
 
 ##  How to Run
